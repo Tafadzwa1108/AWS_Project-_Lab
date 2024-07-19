@@ -2,8 +2,7 @@
 <h1 align="center">Streaming Data from Reddit using Kafka, Spark and MongoDB</h1>
 
   <p align="center">
-  <img src="
-https://lh7-us.googleusercontent.com/P6CpC65-7HZr-1ko2iQhfKx36HnKEjcJXREr7D-DldJQT3dkZ1UaMM1sQv-vV4hND9ajNtdVSv-5gw95qcwe0ZYtQkP-JJqe3Ehr-SpElw0lRTRAXy6ya0QTxnmPp_2tL1am29Z6THrySnw=s2048"
+  <img src="https://lh7-us.googleusercontent.com/P6CpC65-7HZr-1ko2iQhfKx36HnKEjcJXREr7D-DldJQT3dkZ1UaMM1sQv-vV4hND9ajNtdVSv-5gw95qcwe0ZYtQkP-JJqe3Ehr-SpElw0lRTRAXy6ya0QTxnmPp_2tL1am29Z6THrySnw=s2048"
        alt="Data Streaming Pipeline" width="65%" />
 </p>
 
