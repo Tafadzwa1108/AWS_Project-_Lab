@@ -1,10 +1,6 @@
 # AWS Project Lab
 Welcome to the **AWS Project Lab**! This repository features a collection of diverse projects that leverage various AWS services to address real-world challenges. Each project demonstrates different aspects of AWS, from data processing and machine learning to cloud infrastructure and more.
 
-## Project Overview
-
-The AWS Project Lab aims to showcase practical implementations and solutions using AWS technologies. This repository includes projects that utilize AWS services such as EC2, S3, Lambda, DynamoDB, and more to solve complex problems and build scalable solutions.
-
 ## Skillset & Tools
 
 ### AWS Services
